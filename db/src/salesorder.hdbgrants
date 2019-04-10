@@ -1,0 +1,14 @@
+{
+	"mydata-ext-access": {
+		"object_owner": { 
+			"roles": [
+				"axx01::ext_access_g"
+			]
+		},
+		"application_user": {
+			"roles": [
+				"axx01::ext_access"
+			]
+		}
+	}
+}

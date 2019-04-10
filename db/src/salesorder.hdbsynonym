@@ -1,0 +1,8 @@
+{
+  "synonym.SalesOrderHeader": {
+    "target": {
+      "object": "SalesOrderHeader",
+      "schema": "AXX01"
+    }
+  }
+}
